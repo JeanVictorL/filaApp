@@ -9,7 +9,7 @@ function App() {
   )
 }
 
-text = test();
-console.log(text);
+test();
+//console.log(text);
 
 export default App
