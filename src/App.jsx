@@ -1,4 +1,5 @@
 import { Produto } from "./components/produto"
+import test from "./components/BakImport.js"
 
 function App() {
   return (
@@ -7,5 +8,8 @@ function App() {
     </div>
   )
 }
+
+text = test();
+console.log(text);
 
 export default App
