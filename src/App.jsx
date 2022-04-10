@@ -1,15 +1,17 @@
-import { Produto } from "./components/produto"
-import test from "./components/BakImport.js"
+import { Produto } from "./components/Produto"
+import './App.css'
+import { ContainerProduto } from "./components/ContainerProduto"
+import { Senhas } from "./components/ContainerSenha"
 
 function App() {
   return (
-    <div>
-      <Produto name="teste1" price="10"/>
+    <div className="App">
+      <ContainerProduto />
+      {/* <Senhas /> */}
     </div>
   )
 }
 
-test();
-//console.log(text);
+
 
 export default App
