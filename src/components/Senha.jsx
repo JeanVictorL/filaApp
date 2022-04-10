@@ -1,8 +1,6 @@
 export function Senha() {
     return(
-        <div className="senha">
-            <h1>0</h1>
-        </div>
+        <h1 className="senha">0</h1>
     )
 }
 

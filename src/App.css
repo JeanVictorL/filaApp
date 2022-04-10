@@ -23,6 +23,13 @@ body{
   text-align: center;
 }
 
-.senhas {
+.senha {
+  color: red;
+  font-size: 128px;
+  background-color: #000000; 
+  margin: 0;
   height: 30vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
