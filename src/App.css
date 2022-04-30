@@ -12,6 +12,7 @@ body{
   background: #B9B9B9;
   border: 1px solid #000000;
   font-size: 64px;
+  /* height: (100/6)%; */
 }
 
 .Produto--nome {

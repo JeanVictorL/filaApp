@@ -7,8 +7,8 @@ export function Produto(props) {
     return (
         <tr>
             {/* {props.name} : {Format(props.price)} */}
-            <td className="Produto--nome">Nome do produto</td>
-            <td className="Produto--preco">R$19,99</td>
+            <td className="Produto--nome">{props.nome}</td>
+            <td className="Produto--preco">{props.preco && Format(props.preco)}</td>
         </tr>
     );
 }
