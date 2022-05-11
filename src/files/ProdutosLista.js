@@ -12,14 +12,6 @@ export default [
         preco: 90
     },
     {
-        nome: "human flesh",
-        preco: 69
-    },
-    {
-        nome: "your mom",
-        preco: 69420
-    },
-    {
         nome: "moida",
         preco: 7
     },
