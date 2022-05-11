@@ -20,7 +20,19 @@ export default [
         preco: 69420
     },
     {
-        nome: "carre",
-        preco: 10
-    }
+        nome: "moida",
+        preco: 7
+    },
+    {
+        nome: "frango",
+        preco: 8
+    },
+    {
+        nome: "blablabla",
+        preco: 9
+    },
+    {
+        nome: "teste",
+        preco: 0
+    },
 ]
