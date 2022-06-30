@@ -20,7 +20,7 @@ export default [
         preco: 8
     },
     {
-        nome: "blablabla",
+        nome: "frango",
         preco: 9
     },
     {
